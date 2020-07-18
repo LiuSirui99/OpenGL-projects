@@ -1,9 +1,9 @@
-# Opencv-projects
+# OpenGL-projects
 
 
 # Title
 
-My projects in master degree semester 1， including my learning and debugging processes. 
+My projects in master degree semester 2， including my learning and debugging processes. 
 
 
 ## Installation
