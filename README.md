@@ -35,7 +35,7 @@ of include hearder and library as it installed in your machine.
 
 ### Testing
 
-For testing your settings, clone the <a href="https://github.com/LiuSirui99/Opencv-projects/compare/" target="_blank">`http://cg.elte.hu/~agostons/cg_en/week1/`</a> and press run. 
+For testing your settings, clone the <a href="http://cg.elte.hu/~agostons/cg_en/week1/" target="_blank">`http://cg.elte.hu/~agostons/cg_en/week1/`</a> and press run. 
 You should see an new displaying window as a result.
 
 
